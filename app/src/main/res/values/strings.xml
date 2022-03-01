@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">AddNotesProject</string>
+    <string name="headName">New Note</string>
+</resources>
